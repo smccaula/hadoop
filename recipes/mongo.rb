@@ -1,1 +1,1 @@
-package "mongodb-server"
+package "mongodb"
