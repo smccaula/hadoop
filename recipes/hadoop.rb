@@ -1,1 +1,7 @@
-package "hadoop/*"
+package "hadoop"
+package "hadoop-client"
+package "hadoop-conf-pseudo"
+package "hadoop-doc"
+package "hadoop-hdfs-journalnode"
+package "hadoop-hdfs-zkfc"
+package "hadoop-httpfs"

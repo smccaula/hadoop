@@ -1,1 +1,8 @@
 package "hbase"
+package "hbase-doc"
+package "hbase-master"
+package "hbase-regionserver"
+package "hbase-rest"
+package "hbase-thrift"
+package "hue-hbase"
+package "phoenix"
